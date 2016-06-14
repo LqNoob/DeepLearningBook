@@ -32,6 +32,7 @@ Rendering at:
 - Bottom of page 58
 - Bottom of page 60
 - Bottom of page 74
+- Bottom of page 105
 - Bottom of page 173
 - Bottom of page 175
 - Bottom of page 181
