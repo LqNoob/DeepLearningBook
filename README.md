@@ -24,17 +24,3 @@ From http://www.deeplearningbook.org/
         url={http://www.deeplearningbook.org},
         year={2016}
     }
-
-Known issues:
-
-Rendering at:
-- Bottom of page 57
-- Bottom of page 58
-- Bottom of page 60
-- Bottom of page 74
-- Bottom of page 105
-- Bottom of page 173
-- Bottom of page 175
-- Bottom of page 181
-- Bottom of page 184
-
