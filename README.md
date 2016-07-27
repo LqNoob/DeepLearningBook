@@ -1,6 +1,8 @@
 # DeepLearningBook
 MIT Deep Learning Book in PDF format
 
+Update: we just added a section [[Deep Learning Papers]](DeepLearningPapers.md) to this repository. We feel it complements very well the intention of this repository that is to help students to get all the relevant information about deep learning in one place.
+
 This book was downloaded in HTML form and conviniently joined as a single PDF file for your enjoyment. Please notice the known issues in the web page, especially with regards to some symbols not rendering well or not at all.
 
 From http://www.deeplearningbook.org/
@@ -22,16 +24,3 @@ From http://www.deeplearningbook.org/
         url={http://www.deeplearningbook.org},
         year={2016}
     }
-
-Known issues:
-
-Rendering at:
-- Bottom of page 57
-- Bottom of page 58
-- Bottom of page 60
-- Bottom of page 74
-- Bottom of page 173
-- Bottom of page 175
-- Bottom of page 181
-- Bottom of page 184
-
