@@ -5,6 +5,9 @@ Update: we just added a section [[Deep Learning Papers]](DeepLearningPapers.md) 
 
 This book was downloaded in HTML form and conviniently joined as a single PDF file for your enjoyment. Please notice the known issues in the web page, especially with regards to some symbols not rendering well or not at all.
 
+For questions regarding the contents of the book, we encourage you to ask them on the book's forum 
+https://groups.google.com/forum/#!forum/deeplearningbook
+
 From http://www.deeplearningbook.org/
 
     An MIT Press book
