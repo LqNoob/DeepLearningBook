@@ -5,7 +5,7 @@ Update: we just added a section [[Deep Learning Papers]](DeepLearningPapers.md) 
 
 This book was downloaded in HTML form and conviniently joined as a single PDF file for your enjoyment. Please notice the known issues in the web page, especially with regards to some symbols not rendering well or not at all.
 
-PLEASE SUPPORT PROFESSOR IAN GOODFELLOW and the authors if you can purchase the paper book at Amazon. It is not expensive ($72).
+PLEASE SUPPORT PROFESSOR IAN GOODFELLOW and the authors if you can purchase the paper book at Amazon. It is not expensive ($72) and probably contains content that is newer and without typographic mistakes.
 https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618
 
 For questions regarding the contents of the book, we encourage you to ask them on the book's forum 
