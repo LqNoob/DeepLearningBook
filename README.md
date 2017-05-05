@@ -1,6 +1,6 @@
 This is a fork of the PDF version of Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville. I've added EPUB and MOBI versions of the book, generated from the PDF.
 
-Once you get your deep learning career on the roll, consider purchasing a printed copy of this generously freely available work.
+Once you get your deep learning career on the roll, consider purchasing a printed copy of this generously released work by the authors.
 
 # DeepLearningBook
 MIT Deep Learning Book in PDF format
