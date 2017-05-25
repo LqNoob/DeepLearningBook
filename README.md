@@ -2,6 +2,8 @@ This is a fork of the PDF version of Deep Learning by Ian Goodfellow, Yoshua Ben
 
 Once you get your deep learning career on the roll, [consider purchasing a printed copy of this generously released work](http://amzn.to/2qlQqZs) by the respective authors.
 
+![Book cover](cover.jpg?raw=true)
+
 # DeepLearningBook
 MIT Deep Learning Book in PDF format
 
