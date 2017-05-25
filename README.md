@@ -40,7 +40,7 @@ From http://www.deeplearningbook.org/
 
 This document has been prepared by **Henrique Bucher** with the help of the ML/AI community.
 
-- [Vitorian LLC](vitorian.com/x1)
+- [Vitorian LLC](http://www.vitorian.com/x1)
 - [henry@vitorian.com](mailto:henry@vitorian.com)
 - [github.com/hftrader](https://github.com/hftrader)
 - [twitter.com/hftconsulting](https://twitter.com/hftconsulting)
